@@ -550,6 +550,12 @@
                 <version>1.4</version>
                 <scope>test</scope>
             </dependency>
+            <dependency>
+                <groupId>com.adobe.cq</groupId>
+                <artifactId>core.wcm.components.extension</artifactId>
+                <type>zip</type>
+                <version>1.0.0</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
